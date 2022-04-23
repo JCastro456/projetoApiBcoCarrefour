@@ -1,0 +1,124 @@
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\obj\Debug\netcoreapp3.1\CRUDAPI.csproj.AssemblyReference.cache
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\obj\Debug\netcoreapp3.1\CRUDAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\obj\Debug\netcoreapp3.1\CRUDAPI.AssemblyInfoInputs.cache
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\obj\Debug\netcoreapp3.1\CRUDAPI.AssemblyInfo.cs
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\obj\Debug\netcoreapp3.1\CRUDAPI.csproj.CoreCompileInputs.cache
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\obj\Debug\netcoreapp3.1\CRUDAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\CRUDAPI.exe
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\CRUDAPI.deps.json
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\CRUDAPI.runtimeconfig.json
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\CRUDAPI.runtimeconfig.dev.json
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\CRUDAPI.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\CRUDAPI.pdb
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\obj\Debug\netcoreapp3.1\staticwebassets\CRUDAPI.StaticWebAssets.Manifest.cache
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\obj\Debug\netcoreapp3.1\staticwebassets\CRUDAPI.StaticWebAssets.xml
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\CRUDAPI.styles.css
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\obj\Debug\netcoreapp3.1\CRUDAPI.RazorTargetAssemblyInfo.cache
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\obj\Debug\netcoreapp3.1\CRUDAPI.csproj.CopyComplete
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\obj\Debug\netcoreapp3.1\CRUDAPI.dll
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\obj\Debug\netcoreapp3.1\CRUDAPI.pdb
+C:\Users\mplbr\source\CRUD C# Angular\CRUDAPI\obj\Debug\netcoreapp3.1\CRUDAPI.genruntimeconfig.cache
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\CRUDAPI.exe
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\CRUDAPI.deps.json
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\CRUDAPI.runtimeconfig.json
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\CRUDAPI.runtimeconfig.dev.json
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\CRUDAPI.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\CRUDAPI.pdb
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\obj\Debug\netcoreapp3.1\CRUDAPI.csproj.AssemblyReference.cache
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\obj\Debug\netcoreapp3.1\CRUDAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\obj\Debug\netcoreapp3.1\CRUDAPI.AssemblyInfoInputs.cache
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\obj\Debug\netcoreapp3.1\CRUDAPI.AssemblyInfo.cs
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\obj\Debug\netcoreapp3.1\CRUDAPI.csproj.CoreCompileInputs.cache
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\obj\Debug\netcoreapp3.1\CRUDAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\obj\Debug\netcoreapp3.1\staticwebassets\CRUDAPI.StaticWebAssets.Manifest.cache
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\obj\Debug\netcoreapp3.1\staticwebassets\CRUDAPI.StaticWebAssets.xml
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\CRUDAPI.styles.css
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\obj\Debug\netcoreapp3.1\CRUDAPI.RazorTargetAssemblyInfo.cache
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\obj\Debug\netcoreapp3.1\CRUDAPI.csproj.CopyComplete
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\obj\Debug\netcoreapp3.1\CRUDAPI.dll
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\obj\Debug\netcoreapp3.1\CRUDAPI.pdb
+C:\Users\mplbr\source\CRUD_ Angular\CRUDAPI\obj\Debug\netcoreapp3.1\CRUDAPI.genruntimeconfig.cache
